@@ -4,7 +4,7 @@ This is a code repository of a React.js based web app for an Commercial App. It 
 ### Key Stacks
 1. Advance React
 2. Animation
-3. Material-UI
+3. Material-UI (including Grid, Button, Toolbar, List, Dialog, Snackbar, Card)
 4. Firebase
 
 ### Screenshot
